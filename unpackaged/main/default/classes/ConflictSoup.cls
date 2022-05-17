@@ -1,5 +1,5 @@
 global class ConflictSoup {
     public String hello() {
-        return 'Hello First Soup!';
+        return 'Hello Second Soup!';
     }
 }

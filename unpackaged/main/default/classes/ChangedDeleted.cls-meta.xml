@@ -1,5 +1,14 @@
+<<<<<<< .merge_file_b10728
 <?xml version="1.0" encoding="UTF-8"?>
 <ApexClass xmlns="http://soap.sforce.com/2006/04/metadata">
     <apiVersion>54.0</apiVersion>
     <status>Active</status>
 </ApexClass>
+||||||| .merge_file_a10728
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexClass xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>55.0</apiVersion>
+    <status>Active</status>
+</ApexClass>
+>>>>>>> .merge_file_c10728

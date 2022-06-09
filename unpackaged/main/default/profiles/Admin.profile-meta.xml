@@ -6,7 +6,11 @@
     </classAccesses>
     <classAccesses>
         <apexClass>HelloWorld</apexClass>
-        <enabled>true</enabled>
+        <enabled>maybe</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>StagingClassAccess</apexClass>
+        <enabled>maybe</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>HelloWorld</apexClass>

@@ -1,5 +1,5 @@
 global class ChangedDeleted {
     public String hello() {
-        return 'Hello Test!';
+        return 'Hello World!';
     }
 }

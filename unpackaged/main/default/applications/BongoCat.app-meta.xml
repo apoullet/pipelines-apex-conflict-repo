@@ -34,7 +34,7 @@
     <profileActionOverrides>
         <actionName>View</actionName>
         <content>BongoCatRecordLightningPage</content>
-        <formFactor>Small</formFactor>
+        <formFactor>Large</formFactor>
         <pageOrSobjectType>Account</pageOrSobjectType>
         <type>Flexipage</type>
         <profile>Analytics Cloud Integration User</profile>
@@ -42,7 +42,7 @@
     <profileActionOverrides>
         <actionName>View</actionName>
         <content>BongoCatRecordLightningPage</content>
-        <formFactor>Large</formFactor>
+        <formFactor>Small</formFactor>
         <pageOrSobjectType>Account</pageOrSobjectType>
         <type>Flexipage</type>
         <profile>Analytics Cloud Integration User</profile>

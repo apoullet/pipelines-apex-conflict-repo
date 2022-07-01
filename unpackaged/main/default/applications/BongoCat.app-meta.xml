@@ -74,6 +74,9 @@
     <tabs>standard-SecurityCenterNotification</tabs>
     <tabs>standard-Account</tabs>
     <tabs>standard-CmsExperiences</tabs>
+    <tabs>standard-Contact</tabs>
+    <tabs>standard-Contact1</tabs>
+    <tabs>standard-Contact2</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>BongoCat_UtilityBar</utilityBar>
 </CustomApplication>

@@ -71,8 +71,8 @@
         <type>Flexipage</type>
         <profile>Chatter Free User</profile>
     </profileActionOverrides>
-    <tabs>standard-SecurityCenterNotification</tabs>
     <tabs>standard-Account</tabs>
+    <tabs>standard-SecurityCenterNotification</tabs>
     <tabs>standard-CmsExperiences</tabs>
     <tabs>standard-Contact</tabs>
     <tabs>standard-Contact1</tabs>

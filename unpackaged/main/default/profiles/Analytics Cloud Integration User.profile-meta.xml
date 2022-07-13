@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>blablabla</description>
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
@@ -44,6 +45,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.Description</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.TestDuplicate</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>

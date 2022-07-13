@@ -34,14 +34,6 @@
     <profileActionOverrides>
         <actionName>View</actionName>
         <content>BongoCatRecordLightningPage</content>
-        <formFactor>Large</formFactor>
-        <pageOrSobjectType>Account</pageOrSobjectType>
-        <type>Flexipage</type>
-        <profile>Analytics Cloud Integration User</profile>
-    </profileActionOverrides>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>BongoCatRecordLightningPage</content>
         <formFactor>Small</formFactor>
         <pageOrSobjectType>Account</pageOrSobjectType>
         <type>Flexipage</type>
@@ -51,6 +43,14 @@
         <actionName>View</actionName>
         <content>BongoCatRecordLightningPage</content>
         <formFactor>Large</formFactor>
+        <pageOrSobjectType>Account</pageOrSobjectType>
+        <type>Flexipage</type>
+        <profile>Analytics Cloud Integration User</profile>
+    </profileActionOverrides>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>BongoCatRecordLightningPage</content>
+        <formFactor>Small</formFactor>
         <pageOrSobjectType>Account</pageOrSobjectType>
         <type>Flexipage</type>
         <profile>Customer Community User</profile>
@@ -58,7 +58,7 @@
     <profileActionOverrides>
         <actionName>View</actionName>
         <content>BongoCatRecordLightningPage</content>
-        <formFactor>Small</formFactor>
+        <formFactor>Large</formFactor>
         <pageOrSobjectType>Account</pageOrSobjectType>
         <type>Flexipage</type>
         <profile>Customer Community User</profile>
@@ -72,11 +72,8 @@
         <profile>Chatter Free User</profile>
     </profileActionOverrides>
     <tabs>standard-SecurityCenterNotification</tabs>
-    <tabs>standard-Contact1</tabs>
-    <tabs>standard-CmsExperiences</tabs>
-    <tabs>standard-Contact</tabs>
     <tabs>standard-Account</tabs>
-    <tabs>standard-Contact2</tabs>
+    <tabs>standard-CmsExperiences</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>BongoCat_UtilityBar</utilityBar>
 </CustomApplication>

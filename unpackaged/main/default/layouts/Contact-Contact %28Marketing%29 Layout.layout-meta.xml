@@ -30,11 +30,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>DummyFieldThatIsJustThereToMessStuffUp</field>
+                <field>DummyFieldThatIsJustThereToMessStuffUp__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>TestDuplicate</field>
+                <field>TestDuplicate__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
